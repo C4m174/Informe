@@ -441,5 +441,39 @@ Ser la plataforma líder en gestión financiera personal, ofreciendo a los usuar
     </td>
   </tr>
 </table>
-
 <br>
+
+## 1.2. Solution Profile
+
+### 1.2.1 Antecedentes y problemática
+
+- **Qué:** Una aplicación que proporcionará a los usuarios herramientas y recursos para comprender, monitorear y gestionar sus deudas de manera intuitiva y educativa.
+- **Quién:** Está dirigida a personas mayores de edad que deseen gestionar sus deudas de manera más efectiva y mejorar su educación financiera.
+- **Dónde:** La aplicación estaría disponible a través de las tiendas virtuales de los sistemas operativos (iOS, Android).
+- **Cuándo:** La plataforma estaría disponible las 24 horas, así pudiendo permitir el fácil y libre acceso a la aplicación.
+- **Por qué:** Esta aplicación está pensada para personas que tienen dificultades con la gestión de deudas y carecen de educación financiera, lo que conduce a estrés y decisiones financieras deficientes.
+- **Cómo:** El usuario ingresará los pagos pendientes en el apartado de deudas e ingresará detalladamente cómo se debe pagar la deuda pendiente (en cuotas con o sin intereses, financiado por meses, entre otros) y la aplicación generará planes de pago y
+estrategias personalizadas para que el usuario se le haga más sencillo pagar la deuda pendiente. Además, la aplicación emplea una interfaz amigable con secciones claras para una vista general de las deudas, seguimiento de pagos, contenido educativo y utilizará recursos como notificaciones y recordatorios para ayudar al usuario a estar al día con sus pagos y objetivos financieros.
+- **Cuánto:** La aplicación utilizará una estrategia de monetización en la cual se podría incluir un modelo freemium, donde la aplicación básica sea gratuita y las características avanzadas estén disponibles mediante una tarifa de suscripción.
+
+
+### 1.2.2 Lean UX Process.
+#### 1.2.2.1. Lean UX Problem Statements.
+Nuestra aplicación se encargará de ofrecer a los usuarios una alternativa que tiene la finalidad de ayudar a las personas a manejar de manera más efectiva sus deudas y, al mismo tiempo, fortalecer su educación financiera. La app creará una oportunidad para que los usuarios puedan mejorar su situación financiera, pero hemos identificado algunos desafíos clave que debemos abordar para asegurar el éxito de la plataforma.
+
+Uno de los problemas principales es la desconfianza que algunos usuarios pueden sentir al utilizar nuestra aplicación, especialmente porque somos una empresa nueva en el mercado. Los usuarios podrían temer que la app no cumpla con sus expectativas o que no sea segura. ¿Cómo podemos eliminar esta desconfianza en los usuarios al introducir nuestra aplicación? Creemos que si implementamos características de seguridad robustas, proporcionamos testimonios de usuarios y ofrecemos una prueba gratuita, podemos reducir esta desconfianza y aumentar la adopción de la app.
+
+Además, hemos notado que muchas personas no reconocen la importancia de la educación financiera, lo que puede disminuir la motivación para utilizar una aplicación centrada en mejorar sus habilidades de manejo de deudas y finanzas. ¿Qué tan primordial es una app de aprendizaje financiero para nuestros usuarios? Creemos que si logramos mostrar claramente los beneficios tangibles de mejorar la educación financiera, como el ahorro de dinero y la reducción de estrés, más personas estarán motivadas para usar nuestra app.
+
+Por último, es posible que los usuarios no perciban la utilidad inmediata de la aplicación para mejorar su situación financiera, lo que podría llevar a una baja adopción y uso continuo. ¿Cómo podemos motivar a las personas a reconocer que nuestra app es realmente útil? Creemos que si destacamos historias de éxito y casos de estudio dentro de la app, demostrando cómo otros usuarios han mejorado su situación financiera con DebtGo, podremos persuadir a nuevos usuarios sobre la utilidad real de la aplicación y aumentar su uso activo.
+
+#### 1.2.2.2. Lean UX Assumptions.
+**Business Outcomes:**
+
+**User Outcomes:**
+
+#### 1.2.2.3. Lean UX Hypothesis Statements.
+
+#### 1.2.2.4. Lean UX Canvas.
+
+## 1.3. Segmentos objetivo. 
