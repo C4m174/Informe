@@ -227,6 +227,7 @@ Para el presente informe, se llevaron a cabo reuniones y se distribuyeron los pu
 
 # Student Outcome
 ABET – EAC - Student Outcome 5
+
 Criterio: La capacidad de funcionar efectivamente en un equipo cuyos miembros
 juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo,
 establecen objetivos, planifican tareas y cumplen objetivos
@@ -237,55 +238,131 @@ establecen objetivos, planifican tareas y cumplen objetivos
     <td><b>Acciones realizadas</b></td>
     <td><b>Conclusiones</b></td>
   </tr>
-  <tr>
-    <td><b>Participa en equipos
-multidisciplinarios con eficacia,
-eficiencia y objetividad, en el
-marco de un proyecto en
-soluciones de ingeniería de
-software.</b></td>
-    <td> TB1<br><br>
-         <b></b><br>
-
-<br><br> 
-    TP1<br><br>
-        TB2<br><br>
-        <br><br><br><br>
-        TF1<br><br>
-         
-   </td>
-    <td>TB1<br><br>
-    <br><br><br><br>
-    TP1<br><br>
-    <br><br><br><br>
-    TB2<br><br>
-    <br><br><br><br>
-    TF1<br><br>
-    </td>
-  </tr>
-  <tr>
-    <td><b>Conoce al menos un sector
-empresarial o dominio de
-aplicación de soluciones de
-software.</b></td>
-    <td> TB1<br><br>
-        <br><br><br><br>
-    TP1<br><br>
-        <br><br><br><br>
-        TB2<br><br>
-        <br><br><br><br>
-        TF1<br><br>
-        <br><br><br><br>
-   </td>
-    <td>TB1<br><br>
-    <br><br><br><br>
-    TP1<br><br>
-    <br><br><br><br>
-    TB2<br><br>
-    <br><br><br><br>
-    TF1<br><br>
-    </td>
-  </tr>
+    </thead>
+  <tbody>
+    <tr>
+      <td><b>Trabaja en equipo para
+proporcionar liderazgo en
+forma conjunta</b></td>
+      <td>
+        <p><b>Medina Chocce, Karito Dianeth</b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Sanchez Rios, Camila Cristina</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Durand Vera, Gianfranco Angel</b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Duran Santander, Emilia Mercedes</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+      </td>
+      <td>
+        <p><strong>TB1:</strong></p>
+        <p>En conclusión, .</p>
+        <p><strong>TP1:</strong></p>
+        <p>En resumen, .</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, </p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, .</p>
+      </td>
+    </tr>
+    <tr>
+      <td>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</td>
+      <td>
+        <p><b>Medina Chocce, Karito Dianeth</b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Sanchez Rios, Camila Cristina</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Durand Vera, Gianfranco Angel</b></p>
+        <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+        <p><b>Duran Santander, Emilia Mercedes</b></p>
+       <p><b>TB1:</b></p>
+        <p>.</p>
+        <p><b>TP1:</b></p>
+        <p>.</p>
+        <p><b>TB2:</b></p>
+        <p>.</p>
+        <p><b>TF:</b></p>
+        <p>.</p>
+      </td>
+       <td>
+        <p><strong>TB1:</strong></p>
+        <p>En conclusión, .</p>
+        <p><strong>TP1:</strong></p>
+        <p>En resumen, .</p>
+        <p><strong>TB2:</strong></p>
+        <p>En conclusión, </p>
+        <p><strong>TF:</strong></p>
+        <p>En conclusión, .</p>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 <br><br>
@@ -294,3 +371,75 @@ software.</b></td>
 # Capitulo I: Introducción
 ## 1.1. Startup Profile
 ### 1.1.1. Descripción de la Startup
+
+DebtGo es una aplicación móvil innovadora que transforma la forma en que las personas gestionan sus deudas y mejoran su educación financiera. La plataforma proporciona herramientas intuitivas para que los usuarios, tanto jóvenes como adultos, puedan manejar sus finanzas de manera efectiva, evitando deudas innecesarias y promoviendo el bienestar financiero. DebtGo permite a los usuarios establecer metas financieras, seguir sus ingresos y gastos, y recibir informes detallados sobre su flujo de efectivo. Con un enfoque en la personalización, la aplicación crea presupuestos adaptados a las necesidades individuales y ofrece recordatorios para pagos puntuales, además de brindar recursos educativos para mejorar la alfabetización financiera.
+
+**Misión:**
+
+Empoderar a las personas a tomar el control de sus finanzas mediante herramientas intuitivas y educación financiera, ayudándoles a evitar deudas innecesarias y promover un bienestar financiero sostenible.
+
+**Visión:**
+
+Ser la plataforma líder en gestión financiera personal, ofreciendo a los usuarios soluciones innovadoras que les permitan alcanzar la estabilidad y libertad financiera, contribuyendo así a una sociedad más consciente y educada financieramente.
+
+### 1.1.2. Perfiles de integrantes del equipo
+
+<table>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Karito" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Medina Chocce, Dianeth Karito</b></p>
+      <p>
+        ....
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Camila" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Sánchez Ríos, Camila Cristina</b></p>
+      <p>
+        ...
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Gianfranco" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Durand Vera, Gianfranco Ángel</b></p>
+      <p>
+        ...
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Daniel" width="800px">
+    </th>
+    <td valign="top">
+      <p><b>Chávarri Zarzosa, Daniel Jhared</b></p>
+      <p>
+       ...
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <img src="" alt="Foto de perfil de Emilia" width="700px">
+    </th>
+    <td valign="top">
+      <p><b>Durán Santander, Emilia Mercedes.</b></p>
+      <p>
+        ...
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br>
